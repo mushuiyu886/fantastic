@@ -1,0 +1,6 @@
+{
+  "name": "碰碰派对",
+  "description": "线下靠近即玩的零流量多人社交小游戏App，支持Nearby自动匹配建房、分人数梯度玩法、4人以上动态资源包加载与本地离线断线重连缓存。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

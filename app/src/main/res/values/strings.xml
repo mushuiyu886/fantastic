@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">碰碰派对</string>
+    <string name="app_subtitle">BumpParty · 靠近即玩</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_radar">碰碰雷达</string>
+    <string name="nav_lobby">派对大厅</string>
+    <string name="nav_vault">战绩与缓存</string>
+
+    <!-- Radar & connection -->
+    <string name="radar_title">靠近碰一碰 · 自动开房</string>
+    <string name="radar_subtitle">零流量蓝牙/Wi-Fi直连，多机靠近秒速配对</string>
+    <string name="mode_nearby">Nearby 直连</string>
+    <string name="mode_simulated">单机 AI 模拟</string>
+    <string name="btn_start_nearby">开启靠近雷达</string>
+    <string name="btn_stop_nearby">暂停扫描</string>
+    <string name="btn_bump_shake">轻摇碰一碰</string>
+    <string name="btn_add_bot">召唤附近AI好友</string>
+    <string name="btn_enter_lobby">进入派对大厅</string>
+    <string name="status_reconnecting">信号波动 · 自动重连中（本地快照守护）</string>
+    <string name="status_restored">已从本地离线快照无损恢复对局</string>
+
+    <!-- Tiers -->
+    <string name="tier_duo">双人精操</string>
+    <string name="tier_trio">三人混战</string>
+    <string name="tier_quad">四人协作</string>
+    <string name="tier_party">4人+团战</string>
+
+    <!-- Vault & cache -->
+    <string name="vault_title">离线缓存与聚会战绩</string>
+    <string name="vault_snapshots">断线重连快照守护</string>
+    <string name="vault_packs">4人+动态资源包</string>
+    <string name="vault_history">聚会战绩榜</string>
+    <string name="empty_history">还没有聚会战绩，拉上好友碰一碰开一局吧！</string>
+</resources>
